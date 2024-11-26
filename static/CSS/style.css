@@ -1,0 +1,15 @@
+#title {
+    
+    color: black;
+}
+body {
+    background: burlywood;
+}
+table {
+  width: 100%;
+    text-align: center;
+}
+th, td {
+    padding: 8px;
+    border-bottom: 1px solid #ddd;
+}
